@@ -5,7 +5,7 @@ class String
   def sentence?(sentence)
     sentence.end_with?(".")
       true
-    
+
   end
 
   def question?
